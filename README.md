@@ -26,3 +26,7 @@ read me
 * Olá | Hello | Konnichiwa | 
 
 ``console.log(1+3)``
+``
+const button = document.querySelector('button')
+button.addEventListeners('click', () => console.log('Click'))
+``
