@@ -24,3 +24,5 @@ read me
 
 ## Title 2
 * Olá | Hello | Konnichiwa | 
+
+``console.log(1+3)``
