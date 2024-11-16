@@ -23,3 +23,4 @@ read me
 [] Item 11
 
 ## Title 2
+* Olá | Hello | Konnichiwa | 
